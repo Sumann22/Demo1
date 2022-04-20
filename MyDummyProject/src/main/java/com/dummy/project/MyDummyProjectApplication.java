@@ -9,6 +9,7 @@ public class MyDummyProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyDummyProjectApplication.class, args);
 		System.out.println("Hello this is my dummy project");
+		System.out.println("Hello Suman");
 	}
 
 }
